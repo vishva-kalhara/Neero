@@ -1,9 +1,5 @@
-class Neero{
-    onGetHandler(){
-        alert(
-            "gg"
-        )
-    }
+function test (){
+    alert("gg")
 }
 
-export default Neero;
+test();
